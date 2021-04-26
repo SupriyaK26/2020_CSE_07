@@ -17,9 +17,8 @@ Finally our model ensure the data security for accessing the patient record over
 
 PROBLEM STATEMENT:
 
-One particular the trend observed in healthcare is the progressive shift of data and services to the cloud, partly due to convenience and savings (e.g. economics of healthcare data management). There are, however, limitations to using conventional cryptographic primitives and access control models to address security and privacy concerns in an increasingly cloud-based environment.
-
-                            While data integrity and distributed storage/access of blockchain offer opportunities for healthcare data management, these same features also pose challenges that need further study. The strong data integrity feature of blockchain results in immutability that any data, once stored in blockchain, cannot be altered or deleted. Another practical issue is how to fit it is for blockchain to store healthcare data. Blockchain was originally designed to record transaction data, which is relatively small in size and linear.       
+One particular the trend observed in healthcare is the progressive shift of data and services to the cloud, partly due to convenience and savings (e.g. economics of healthcare data management). There are, however, limitations to using conventional cryptographic primitives and access control models to address security and privacy concerns in an increasingly cloud-based environm
+While data integrity and distributed storage/access of blockchain offer opportunities for healthcare data management, these same features also pose challenges that need further study. The strong data integrity feature of blockchain results in immutability that any data, once stored in blockchain, cannot be altered or deleted. Another practical issue is how to fit it is for blockchain to store healthcare data. Blockchain was originally designed to record transaction data, which is relatively small in size and linear.       
 
 
 
